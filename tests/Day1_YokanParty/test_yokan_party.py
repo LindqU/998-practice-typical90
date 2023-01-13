@@ -1,6 +1,6 @@
 """hogehoge"""
 import pytest
-from task.day1 import main
+from task.Day1_YokanParty.yokan_party import main
 from utility.mock_std import In, Out
 
 
